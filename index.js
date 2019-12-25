@@ -10,3 +10,4 @@ function Animal(name, species)
 
 let tigre = new Animal("tigre", "tiger");
 console.log(tigre);
+tigre.sayName();
