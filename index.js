@@ -15,6 +15,7 @@ let Brandon = {
 Brandon.__proto__ = intermediateObject;
 
 console.log(Brandon);
+Brandon.sayHi();
 // function Animal(name, species) 
 // {
 //   this.name = name;
