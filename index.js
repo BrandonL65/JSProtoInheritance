@@ -8,3 +8,4 @@ function Animal(name, species)
   }
 }
 
+console.log(tigre);
